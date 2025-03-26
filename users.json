@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "surender reddy",
+        "email": "surender@gmail.com",
+        "job": "software engineer",
+        "salary": "4.5Lpa"
+    },
+    {
+        "id": 2,
+        "name": "surender reddy",
+        "email": "surender@gmail.com",
+        "job": "software engineer",
+        "salary": "4.5Lpa"
+    },
+    {
+        "id": 3,
+        "name": "surender reddy",
+        "email": "surender@gmail.com",
+        "job": "software engineer",
+        "salary": "4.5Lpa"
+    }
+]
